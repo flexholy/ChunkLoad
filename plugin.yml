@@ -1,0 +1,5 @@
+﻿name: maplighter
+api: [3.0.0-ALPHA6]
+version: 1.0
+author: procompteam
+main: procompteam\Service
